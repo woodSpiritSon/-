@@ -1,0 +1,16 @@
+.logo {
+  width: 120px;
+  height: 31px;
+  background: rgba(255,255,255,.8);  
+  margin: 16px 24px 16px 0;
+  float: left;
+  background-size: cover;
+  border-radius: 4px;
+  // background-image: url(../images/logo.png)
+}
+.content{
+  height: 100%;
+  padding: 0;
+  background-color: 'white';
+  flex: 1;
+}
